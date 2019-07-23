@@ -1,4 +1,4 @@
-# Smart Parking - a small-scall replica
+# Smart Parking - a small-scale replica
 
 ## Authors
 * MEZIANE Farid (farid.meziane@etu.univ-paris13.fr)
